@@ -80,6 +80,4 @@ Supports Android, iOS, and PC builds
 
 - Press Play in the Unity Editor or build to your target device.
 
-- git add Cubes screenshot.png
-git commit -m "Added screenshot"
-git push
+![Description](Cubes screenshot.png)
