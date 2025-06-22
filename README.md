@@ -80,4 +80,5 @@ Supports Android, iOS, and PC builds
 
 - Press Play in the Unity Editor or build to your target device.
 
-![Description](Cubes screenshot.png)
+### Screenshot
+![Description](The%20Cubes/TheCubes/Cubes%20screenshot.png)
